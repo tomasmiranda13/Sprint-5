@@ -1,0 +1,16 @@
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 50px;
+  padding: 200px 0 350px 0;
+}
+
+@media (max-width: 395px) {
+  .row {
+    flex-direction: column;
+    gap: 50px;
+    align-items: center;
+    padding-top: 140px;
+  }
+}

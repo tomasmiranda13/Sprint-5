@@ -1,0 +1,30 @@
+.container {
+  width: 320px;
+  border-radius: 5px;
+  background-color: hsl(219, 30%, 18%);
+  padding: 20px 20px 30px 30px;
+  box-shadow: 7px 5px 5px hsl(219, 29%, 19%);
+  display: flex;
+  flex-direction: column;
+}
+.display-row {
+  display: flex;
+  margin-top: 30px;
+}
+.img-size {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+.name-style {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+}
+.ocupation {
+  font-size: 9px;
+}
+.name {
+  font-size: 12px;
+  margin-bottom: 2px;
+}

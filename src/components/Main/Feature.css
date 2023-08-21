@@ -1,0 +1,15 @@
+.feature-style {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  margin: 20px 120px;
+  text-align: center;
+}
+.icon {
+  transform: scale(0.7);
+}
+.h3-bottom-space {
+  margin-bottom: 5px;
+}
