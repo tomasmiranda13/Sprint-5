@@ -4,7 +4,7 @@ function Nav() {
   return (
     <>
     <div className='position-nav'>
-      <img className='logo' src="./public/icons/logo.svg" alt=" " />
+      <img className='logo' src="./icons/logo.svg" alt=" " />
       <ul className='position-ul'>
         <li>Features</li>
         <li>Team</li>

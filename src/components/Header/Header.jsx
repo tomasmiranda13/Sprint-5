@@ -15,7 +15,7 @@ function Header() {
        <p>Fylo stores all your most important files in one secure location. Access them wherever youu need, share and colavorate with friends family, and co-workers.</p>
        <Button text="Get started"/>
        </div>
-      </div>
+       </div>
     </>
   )
 }
