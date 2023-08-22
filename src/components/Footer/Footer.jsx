@@ -1,6 +1,6 @@
 import React from 'react'
 import './Footer.css'
-import Login from './login'
+import Login from './Login'
 
 export const Footer = () => {
   return (
