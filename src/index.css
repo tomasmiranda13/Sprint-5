@@ -3,10 +3,10 @@
   padding: 0;
   box-sizing: border-box;
   font-size: 14px;
-  color: hsl(0, 0%, 100%);
 }
 :root {
   font-family: "Raleway", sans-serif;
 
   color: rgba(255, 255, 255, 0.87);
+  background-color: hsl(218, 28%, 13%);
 }

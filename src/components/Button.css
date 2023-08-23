@@ -1,5 +1,6 @@
 .btn-style {
   background-color: rgb(18, 157, 199);
+  background: linear-gradient(90deg, hsl(176, 68%, 64%), hsl(198, 60%, 50%));
   color: white;
   border-radius: 50px;
   width: 220px;

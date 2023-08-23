@@ -46,6 +46,16 @@ ul {
   display: flex;
   gap: 20px;
 }
+.social-media {
+  display: flex;
+  gap: 5px;
+  justify-content: center;
+}
+.social-media img {
+  width: 20px;
+  height: 20px;
+  filter: invert(1);
+}
 @media (max-width: 395px) {
   .div-log {
     position: relative;

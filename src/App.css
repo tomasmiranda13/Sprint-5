@@ -3,3 +3,12 @@
   padding: 0;
   max-width: 1440px;
 }
+u {
+  color: white;
+}
+h1,
+h2,
+h3,
+h4 {
+  font-weight: 700;
+}
