@@ -29,6 +29,7 @@
   height: 50px;
   width: 400px;
   border-radius: 35px;
+  padding: 0 10px;
 }
 @media (max-width: 395px) {
   .log-container {
